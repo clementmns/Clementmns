@@ -1,7 +1,7 @@
 # Hi there, I'm Clément <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
 
 
-## I'm a MMI Student  
+## I'm a MMI Student 📚
 
 - 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😅
