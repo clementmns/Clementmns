@@ -64,12 +64,6 @@
 
 <br/>
 
----
-
-### ⭐️ From [Bgstatic](https://github.com/Bgstatic) ### 
-
----
-
 [website]: http://clementomnes.dev
 [linkedin]: https://www.linkedin.com/in/clement-omnes
 
