@@ -35,9 +35,6 @@
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-
-<br/>
-
 [website]: http://clementomnes.dev
 [linkedin]: https://www.linkedin.com/in/clement-omnes
 
