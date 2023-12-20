@@ -45,7 +45,7 @@
   
   <div align="center"> 
     <a href="">
-      <img align="center" src="!(https://github-readme-stats.vercel.app/api/top-langs/?username=Clementmns&hide_progress=true)"/>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clementmns&hide_progress=true"/>
     </a>
 </div
 
