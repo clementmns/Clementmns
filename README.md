@@ -18,5 +18,3 @@
 
 [website]: http://clementomnes.dev
 [linkedin]: https://www.linkedin.com/in/clement-omnes
-
-----
