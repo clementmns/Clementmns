@@ -1,8 +1,8 @@
 # Hi there, I'm Clément 👋🏻
 
-## I'm a MMI Student 📚
+## I'm a Software Engineering student 📚
 
-- 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
+- 👨‍💻 I’m currently working at R3mScore in Software Engineering.
 - 📚 I’m currently learning everything about Java and React.JS technologies 😅
 - 💪🏼 Future Goals: Never stop creating new ideas.
 
