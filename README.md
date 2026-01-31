@@ -1,7 +1,16 @@
+<samp>
+
 ### Hi there 👋
 
-I’m Clément, a software engineer currently working at **@R3mscore**. I’m passionate about building clean, reliable software and continuously improving my skills.
+I’m Clément, a software engineer currently working at
+<a href="https://www.r3mscore.com">R3mscore</a>.
 
-Alongside my work, I’m studying **computer science**, learning more every day about software engineering, systems, and modern development practices.
+I’m passionate about building clean, reliable software and continuously improving my skills.
 
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=clementmns&color=lightgrey)
+Alongside my work, I’m studying computer science, learning more every day
+about software engineering, systems, and modern development practices.
+</samp>
+
+
+
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=clementmns&color=lightgrey&style=flat&abbreviated=true)
